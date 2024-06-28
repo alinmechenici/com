@@ -1,0 +1,26 @@
+project:
+  title: "Alin Mechenici {Sv}"
+  output-dir: ./_site/sv
+
+website:
+  navbar:
+    right:
+      - href: artiklar.qmd
+        text: Artikles
+      - href: ../en
+        text: English
+      - href: ../blog/ro
+        text: Romana
+
+lang: sv
+
+format:
+  html:
+    theme: 
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    highlight-style: espresso
+    toc: true
+    fontsize: 1.1em
+    linestretch: 1.7

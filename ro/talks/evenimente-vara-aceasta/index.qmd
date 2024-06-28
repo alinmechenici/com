@@ -1,0 +1,34 @@
+---
+title: "Evenimente la care particip in vara aceasta"
+author: "Alin Mechenici"
+date: "2024-06-15"
+categories: [stiri, CSR, scoala de vara, evenimente]
+image: "image.jpg"
+---
+
+Aseara, am participat la [Web3 Builders](https://tokero.com/ro/webinars/tokero-craiova-meetup-educatie-financiara-si-investitii-21/), panel organizat de Tokero. Detalii despre eveniment gasiti aici](/ro/talks/web3-builders) si varianta in engleza [aici](/en/talks/web3-builders).
+
+Anul acesta, am acceptat cu plăcere, încă o dată, invitația BookLand de a vorbi cu copiii.
+
+Locatia: La Mesteceni din Poiana Marului, Caras Severin
+Data: 24 Iun 2024  
+[Program](https://book-land.ro/program-tabere/)
+
+![Logo](../../../assets/logos/chenist-academy.svg)
+
+Este posibil sa pot participa si la a doua la locatie a editiei din acest an, si anume in „Berevoiești”, Argeș, pe 13 iulie 2024. Revin cu datalii [aici](/ro/talks/bookland-2024).
+
+> [En](/en/events/bookland-2024/)
+
+![Scoala de Vara a Universitatii din Craiova](../../../assets/images/open4tech-summer-school-2024.png)
+
+De asemenea, Departamentul de Informatica din cadrul Facultatii de Stiinte, Universitatea din Craiova m-a invitat sa sustin un curs, din partea CHENIST Cybersecurity, la scoala de vara Open4Tech - Summer School 2024.
+
+> You can read the English version of the article, [here](/talks/en/open4tech-summer-school-2024/).
+
+
+
+
+Pentru moment, varianta cu mai multe detalii o gasesti pe [pagina in limba engleza](/en/events/).
+
+Revin cu update-uri in curand.

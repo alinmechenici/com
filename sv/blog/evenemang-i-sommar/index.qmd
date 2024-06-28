@@ -1,0 +1,13 @@
+---
+title: "Evenemang i sommar"
+author: "Alin Mechenici"
+date: "2024-06-21"
+categories: [hej, cybersäkerhet, evenemang]
+image: "image.jpg"
+---
+
+
+I sommar kommer jag att ha många event. Börjar med en sommarskola anordnad av BookLand, även inbjudan till sommarskolan vid University of Craiova, och fortsätter med sommarskolan på mitt företag [CHENIST.Academy](https://chenist.academy/)
+
+Jag kommer att skriva om varje snart, men tills dess, följ den engelska sidan [här](/en/events).
+

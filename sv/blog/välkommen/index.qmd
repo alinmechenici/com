@@ -1,0 +1,12 @@
+---
+title: "Välkommen"
+author: "Alin Mechenici"
+date: "2024-06-18"
+categories: [hej]
+---
+
+Jag är inte säker på vad jag ska skriva om i den här bloggserien på svenska, men förmodligen kommer jag att reda ut det snart.
+
+Jag kommer att hålla dig uppdaterad med min entreprenörsresa, några cybersäkerhetsnyheter, tips och tricks och några personliga uppdateringar.
+
+Ses snart! Jag hoppas du tycker om det!

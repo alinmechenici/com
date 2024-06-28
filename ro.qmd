@@ -1,0 +1,30 @@
+---
+title: "/articole"
+categories: [articole]
+listing:
+  contents: ro
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, description, categories]
+  feed: true
+page-layout: full
+title-block-banner: true
+---
+
+
+::: {when-profile="romanian"}
+
+
+
+- [Evenimente](evenimente.html)
+- [Podcast](podcast.html)
+
+Ultimul proiect antreprenorial dezvoltat: [CHENIST Cybersecurity](https://chen.ist)
+
+In trecut am dezvoltat de la zero 2 organizatii non-guvernamentale si 3 companii (in doua tari) si am lucrat parteneri si clienti corporatii, precum NASA, samd, dar si ONG-uri, parcuri stiintifice si IMM-uri.
+
+
+:::

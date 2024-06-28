@@ -1,0 +1,10 @@
+---
+title: "Events this summer"
+author: "Alin Mechenici"
+date: "2024-06-21"
+categories: [news, code, events]
+image: "image.jpg"
+---
+
+
+Summer jam

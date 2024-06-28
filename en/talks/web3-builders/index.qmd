@@ -1,0 +1,14 @@
+---
+title: "Web3-builders"
+author: "Alin Mechenici"
+date: "2024-06-21"
+categories: [meetup, dev, web3, events, crypto]
+image: "../../../assets/images/web3dev-panel.jpg"
+---
+
+Last evening, I participated in the [Web3 Builders](https://tokero.com/ro/webinars/tokero-craiova-meetup-educatie-financiara-si-investitii-21/) panel on Tokero's meetup. 
+
+> [Romanian version](/talks/ro/web3-dev/)
+
+![Logo](../../../assets/images/web3dev-panel.jpg)
+![Logo](../../../assets/logos/chenist.png)

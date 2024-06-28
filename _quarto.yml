@@ -1,0 +1,39 @@
+project:
+  type: website 
+
+execute:
+  freeze: auto
+
+profile:
+  default: english
+  group: [english, romanian]
+
+website:
+  title: "Alin Mechenici"
+  site-url: https://alin.mechenici.com
+  description: "This is Alin Mechenici's personal Blog."
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Now"
+        href: now.qmd
+    right:
+      - href: en.qmd
+        text: En
+      - href: ro.qmd
+        text: Ro
+      - href: sv.qmd
+        text: Sv
+
+      - icon: rss
+        href: en.xml
+
+      - icon: github
+        href: https://github.com/alinmechenici
+      - icon: twitter
+        href: https://twitter.com/alinmechenici

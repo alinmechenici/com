@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Alin Mechenici</title>
+<link>https://alin.mechenici.com/talks.html</link>
+<atom:link href="https://alin.mechenici.com/talks.xml" rel="self" type="application/rss+xml"/>
+<description>This is Alin Mechenici&#39;s personal Blog.</description>
+<generator>quarto-1.4.554</generator>
+<lastBuildDate>Thu, 20 Jun 2024 21:00:00 GMT</lastBuildDate>
+<item>
+  <title>Bookland’s SummerCamp 2024</title>
+  <dc:creator>Alin Mechenici</dc:creator>
+  <link>https://alin.mechenici.com/en/talks/bookland-2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This year, we gladly accepted, once again, the BookLand’s invitation to talk to kids.</p>
+<p>The first edition, in “Poiana Marului”, Caras Severin, on the 24th of June, and the second one in “Berevoiesti”, Arges, on the 13th of July 2024.</p>
+<p><img src="https://alin.mechenici.com/en/talks/bookland-2024/bookland.png" class="img-fluid" alt="Logo"> <img src="https://alin.mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid" alt="Logo"></p>
+<p>I will have a “Cyber Hygiene” workshop with kids, ages 15-19.</p>
+<p>You can find the whole schedule <a href="https://book-land.ro/program-tabere/">here</a>.</p>
+<blockquote class="blockquote">
+<p>You can read the Romanian version of the article, <a href="../../../talks/ro/bookland-2024/">here</a>.</p>
+</blockquote>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>summer</category>
+  <category>events</category>
+  <category>CSR</category>
+  <guid>https://alin.mechenici.com/en/talks/bookland-2024/</guid>
+  <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
+  <media:content url="https://alin.mechenici.com/assets/images/bookland-tabara_2023.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Summer School Open4Tech</title>
+  <dc:creator>Chenist Academy</dc:creator>
+  <link>https://alin.mechenici.com/en/talks/open4tech-summer-school-2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>The Department of Computer Science within the Faculty of Sciences at the University of Craiova, <a href="http://inf.ucv.ro/~summer-school/organizatori.php">in collaboration</a> with the “Society for Computer Technologies” Association and companies <a href="https://caphyon.ro">Caphyon</a>, <a href="https://chen.ist">Chenist Cybersecurity</a>, <a href="https://netrom.ro">Netrom Software</a> si <a href="https://sync.ro">Syncro Soft</a>, is organizing the <a href="http://stud.inf.ucv.ro/2024/06/open4tech-summer-school-2024/">Open4Tech - Summer School 2024</a>.</p>
+<p>The courses will take place from June 24 to July 12, 2024, and are intended for students and high school pupils passionate about computer science.</p>
+<p><img src="https://alin.mechenici.com/assets/images/open4tech-summer-school-2024.png" class="img-fluid"></p>
+<p><img src="https://alin.mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid"></p>
+<p>I will teach you on how to navigate the cybersecurity landscape</p>
+<p>Join our intensive 4-hour course designed specifically students eager to explore the world of cybersecurity. This hands-on course will equip you with the essential skills and knowledge to navigate the complex cybersecurity landscape effectively.</p>
+<p>What You’ll Learn:</p>
+<ul>
+<li><p>Understanding Cyber Threats: Gain insights into common cyber threats and how they impact individuals and organizations.</p></li>
+<li><p>Safe Internet Practices: Learn best practices for safe browsing, including identifying phishing attempts and avoiding malicious websites.</p></li>
+<li><p>Data Protection: Discover methods to protect your personal information and data from cyber attacks.</p></li>
+<li><p>Basic Cyber Hygiene: Implement basic cybersecurity measures to safeguard your devices and online presence.</p></li>
+<li><p>Practical Scenarios: Engage in interactive exercises and real-world scenarios to apply what you’ve learned.</p></li>
+</ul>
+<p>Difficulty: beginner</p>
+<p>Format: 2 sessions x 2h</p>
+<p><a href="http://inf.ucv.ro/~summer-school/cursuri.php">RSVP</a></p>
+<blockquote class="blockquote">
+<p>Poti citi varianta in romana a articolului, <a href="../../../talks/ro/open4tech-summer-school-2024/">aici</a>.</p>
+</blockquote>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>CSR</category>
+  <category>events</category>
+  <category>summer school</category>
+  <guid>https://alin.mechenici.com/en/talks/open4tech-summer-school-2024/</guid>
+  <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
+  <media:content url="https://alin.mechenici.com/assets/images/open4tech-summer-school-2024.png" medium="image" type="image/png" height="68" width="144"/>
+</item>
+<item>
+  <title>Web3-builders</title>
+  <dc:creator>Alin Mechenici</dc:creator>
+  <link>https://alin.mechenici.com/en/talks/web3-builders/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Last evening, I participated in the <a href="https://tokero.com/ro/webinars/tokero-craiova-meetup-educatie-financiara-si-investitii-21/">Web3 Builders</a> panel on Tokero’s meetup.</p>
+<blockquote class="blockquote">
+<p><a href="../../../talks/ro/web3-dev/">Romanian version</a></p>
+</blockquote>
+<p><img src="https://alin.mechenici.com/assets/images/web3dev-panel.jpg" class="img-fluid" alt="Logo"> <img src="https://alin.mechenici.com/assets/logos/chenist.png" class="img-fluid" alt="Logo"></p>
+
+
+
+ ]]></description>
+  <category>meetup</category>
+  <category>dev</category>
+  <category>web3</category>
+  <category>events</category>
+  <category>crypto</category>
+  <guid>https://alin.mechenici.com/en/talks/web3-builders/</guid>
+  <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
+  <media:content url="https://alin.mechenici.com/assets/images/web3dev-panel.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

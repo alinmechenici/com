@@ -1,0 +1,9 @@
+---
+title: "Evenimente"
+author: "Chenist Academy"
+date: "2024-06-21"
+categories: [news, code, events]
+image: "image.jpg"
+---
+
+

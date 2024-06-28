@@ -1,0 +1,56 @@
+---
+title: "Course for Summer School Open4Tech"
+author: "Chenist Academy"
+date: "2024-06-27"
+categories: [course, cyberhygiene, cyberawareness, beginner, events, summer-school, UCV]
+image: "../../../assets/images/open4tech-summer-school-2024.png"
+---
+
+![](../../../assets/images/open4tech-summer-school-2024.png)
+
+Thank you Mr. Mirel Cosulschi for the invitation to participate in this edition of the [Open4tech Summer School 2024](/en/talks/open4tech-summer-school-2024/).
+
+Our training on "how to navigate the cybersecurity landscape" consists in a 2 sessions x 2h format. The first part of the course it will take today, 27th of June. 
+
+Before we begin, who are we?
+
+![[CHENIST Academy](https://chenist.academy) - part of CHENIST Cybersecurity](../../../assets/logos/chenist-academy.svg)
+
+We will teach you on how to navigate the cybersecurity landscape, step by step.
+
+What You'll Learn In This 4 hours Course:
+
+- Understanding Cyber Threats: Gain insights into common cyber threats and how they impact individuals and organizations.
+
+- Safe Internet Practices: Learn best practices for safe browsing, including identifying phishing attempts and avoiding malicious websites.
+
+- Data Protection: Discover methods to protect your personal information and data from cyber attacks.
+    
+- Basic Cyber Hygiene: Implement basic cybersecurity measures to safeguard your devices and online presence.
+    
+- Practical Scenarios: Engage in interactive exercises and real-world scenarios to apply what you've learned.
+
+
+Now, let's explore the world of cybersecurity together for the first section of the course:
+
+1st hour [Cyber Awareness]:
+
+- GKTNEO
+- What is Cybersecurity?
+- How can cybersecurity and the lack of it can affect you [Cyber Risks]?
+- "You have nothing to hide?" - and other myths
+- Data leaks and you (haveibeenpwnd.com)
+- Who are the main cyber actors?
+- What can you do to improve your cyber resilience?
+- Q&A
+
+2nd hour [Cyber Hygiene]:
+
+- What is Cyber Hygiene?
+- What can you do to improve your C.H.?
+- Browsing / Passwords / Encryption / VMs / Specific setups 
+- Q&A 
+
+If you haven't [RSVP](http://inf.ucv.ro/~summer-school/cursuri.php) already, I think you can still do it. 
+
+> Poti citi in curand varianta in romana a articolului, [aici](/talks/ro/open4tech-summer-school-2024/).

@@ -1,0 +1,17 @@
+---
+title: "Sailfish OS"
+author: "Alin Mechenici"
+date: "2024-06-21"
+categories: [tech, OS, mobile]
+image: "../../../assets/images/sailfishos.jpg"
+---
+
+
+
+
+pkcon -y install --allow-reinstall \
+    rpm pigz xz patch htop vim-minimal harbour-gpsinfo zypper \ 
+    zypper-aptitude mce-tools harbour-file-browser harbour-todolist \
+    sailfish-filemanager sailfish-filemanager-l10n-all-translations \
+    harbour-qrclip
+

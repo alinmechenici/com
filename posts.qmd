@@ -1,0 +1,24 @@
+---
+title: "/articles"
+categories: [news]
+listing:
+  contents: en/blog/**/*.qmd
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, description, categories]
+page-layout: full
+title-block-banner: true
+---
+
+::: {when-profile="english"}
+I love building secure platforms, strong teams and cultures.
+
+My latest startup is [CHENIST Cybersecurity](https://chen.ist)
+
+In the past I bootstrapped 2 NGOs and 3 companies (in two countries) and worked with clients and partners like NASA, Mjardevi Science Park, etc, but also with SMEs and NGOs. 
+
+:::
+

@@ -1,0 +1,44 @@
+---
+title: "Summer School Open4Tech"
+author: "Chenist Academy"
+date: "2024-06-21"
+categories: [news, CSR, events, summer school]
+image: "../../../assets/images/open4tech-summer-school-2024.png"
+---
+
+The Department of Computer Science within the Faculty of Sciences at the University of Craiova, [in collaboration](http://inf.ucv.ro/~summer-school/organizatori.php) with the "Society for Computer Technologies" Association and companies [Caphyon](https://caphyon.ro), [Chenist Cybersecurity](https://chen.ist), [Netrom Software](https://netrom.ro) si [Syncro Soft](https://sync.ro), is organizing the [Open4Tech - Summer School 2024](http://stud.inf.ucv.ro/2024/06/open4tech-summer-school-2024/).
+
+The courses will take place from June 24 to July 12, 2024, and are intended for students and high school pupils passionate about computer science.
+
+![](../../../assets/images/open4tech-summer-school-2024.png)
+
+![](../../../assets/logos/chenist-academy.svg)
+
+I will teach you on how to navigate the cybersecurity landscape
+
+Join our intensive 4-hour course designed specifically students eager to explore the world of cybersecurity. This hands-on course will equip you with the essential skills and knowledge to navigate the complex cybersecurity landscape effectively.
+
+
+What You'll Learn:
+
+- Understanding Cyber Threats: Gain insights into common cyber threats and how they impact individuals and organizations.
+
+- Safe Internet Practices: Learn best practices for safe browsing, including identifying phishing attempts and avoiding malicious websites.
+
+- Data Protection: Discover methods to protect your personal information and data from cyber attacks.
+    
+- Basic Cyber Hygiene: Implement basic cybersecurity measures to safeguard your devices and online presence.
+    
+- Practical Scenarios: Engage in interactive exercises and real-world scenarios to apply what you've learned.
+
+
+Difficulty: beginner
+
+Format: 2 sessions x 2h
+
+[RSVP](http://inf.ucv.ro/~summer-school/cursuri.php)
+
+
+> Poti citi varianta in romana a articolului, [aici](/talks/ro/open4tech-summer-school-2024/).
+
+

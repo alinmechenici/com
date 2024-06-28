@@ -1,0 +1,24 @@
+---
+title: "/events"
+categories: [events]
+listing:
+  contents: en/events/**/*.qmd
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, description, categories]
+  feed: true
+page-layout: full
+title-block-banner: true
+---
+
+::: {when-profile="english"}
+
+Events:[CHENIST Cybersecurity](https://chen.ist)
+
+Events
+
+:::
+

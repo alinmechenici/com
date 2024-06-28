@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Alin Mechenici</title>
+<link>https://alin.mechenici.com/sv.html</link>
+<atom:link href="https://alin.mechenici.com/sv.xml" rel="self" type="application/rss+xml"/>
+<description>This is Alin Mechenici&#39;s personal Blog.</description>
+<generator>quarto-1.4.554</generator>
+<lastBuildDate>Thu, 20 Jun 2024 21:00:00 GMT</lastBuildDate>
+<item>
+  <title>Evenemang i sommar</title>
+  <dc:creator>Alin Mechenici</dc:creator>
+  <link>https://alin.mechenici.com/sv/blog/evenemang-i-sommar/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I sommar kommer jag att ha många event. Börjar med en sommarskola anordnad av BookLand, även inbjudan till sommarskolan vid University of Craiova, och fortsätter med sommarskolan på mitt företag <a href="https://chenist.academy/">CHENIST.Academy</a></p>
+<p>Jag kommer att skriva om varje snart, men tills dess, följ den engelska sidan <a href="../../../en/events">här</a>.</p>
+
+
+
+ ]]></description>
+  <category>hej</category>
+  <category>cybersäkerhet</category>
+  <category>evenemang</category>
+  <guid>https://alin.mechenici.com/sv/blog/evenemang-i-sommar/</guid>
+  <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
+  <media:content url="https://alin.mechenici.com/sv/blog/evenemang-i-sommar/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Välkommen</title>
+  <dc:creator>Alin Mechenici</dc:creator>
+  <link>https://alin.mechenici.com/sv/blog/välkommen/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Jag är inte säker på vad jag ska skriva om i den här bloggserien på svenska, men förmodligen kommer jag att reda ut det snart.</p>
+<p>Jag kommer att hålla dig uppdaterad med min entreprenörsresa, några cybersäkerhetsnyheter, tips och tricks och några personliga uppdateringar.</p>
+<p>Ses snart! Jag hoppas du tycker om det!</p>
+
+
+
+ ]]></description>
+  <category>hej</category>
+  <guid>https://alin.mechenici.com/sv/blog/välkommen/</guid>
+  <pubDate>Mon, 17 Jun 2024 21:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

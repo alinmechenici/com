@@ -1,0 +1,24 @@
+---
+title: "/artiklar"
+categories: [nyheter]
+listing:
+  contents: sv
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, description, categories]
+  feed: true
+page-layout: full
+title-block-banner: true
+---
+
+::: {when-profile="swedish"}
+
+Min senaste startup är [CHENIST Cybersecurity](https://chen.ist)
+
+Tidigare startade jag 2 NGOs och 3 företag (i två länder) och arbetade med kunder och partners som NASA, Mjardevi Science Park, etc, men också med SMEs och NGOs.
+
+:::
+

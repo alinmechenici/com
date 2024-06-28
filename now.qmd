@@ -1,0 +1,68 @@
+---
+title: "What I am doing NOW"
+image: assets/images/now.jpg
+listing:
+  contents: en/talks/**/*.qmd
+  sort: "date desc"
+  type: default
+  categories: true
+about:
+  template: broadside
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/alinmechenici
+    - icon: linkedin
+      text: LinkedIn
+      href: https://se.linkedin.com/alinmechenici
+    - icon: github
+      text: Github
+      href: https://github.com/alinmechenici
+    - icon: mastodon
+      text: Mastodon
+      href: https://mastodon.social/@alinmechenici
+---
+Fun: 
+
+- enjoying my daily commutes on my (Super Soco TC Max) electric coffee racer and having real fun every weekend on long rides on my Kavasaki Vulcan S '23 cruiser.
+- drawing & painting (sometimes)
+- cooking vegetarian (since 2015)
+
+Work:
+
+CEO at [CHENIST Cybersecurity](https://chen.ist)
+
+Developing:
+
+- [Chenist.Academy](https://chenist.academy) / Chenist.Club / Chenist.Digital
+
+Private and community events I am developing for fun and profit:
+
+- NASA SpaceAppsChallenge Hackathon (Yearly, since 2013)
+- Chenist Academy Summer School (2024)
+- Cybersecurity Conference (2024)
+- Cyber (Private) Hackathon (2024)
+- Chenist Club meetups (2024)
+
+Learning & practicing:
+
+- Yoga & meditation
+
+Reading: 
+
+- technical related topics related to UNIX (with focus on: NixOS, FreeBSD and OpenBSD), Common-Lisp/Python, Latex, and Open-Source software (Redmine, N8n, Jekyll, Nextcloud, Emacs, Firefox, D2, SSH, Rsync, Wireguard, Pf, Audacity, Inkscape, Freecad, Blender, Krita, Calibre, Gnome-Pomodoro, PySpread, pass, Ledger-cli, Stump-wm, Tmux, Pandoc, Quarto, Neomutt, Newsboat, Abook, etc).
+- phylosophys of the east and stoicism 
+
+Courses I am upgrading:
+
+- Cyber Hygiene for SMBs
+- Cyber Awareness for SMBs
+- Open-Source for SMBs
+
+New courses I am developing:
+
+- NixOS for SMBs
+- FreeBSD for SMBs
+- Cloud Security for SMBs
+
+Recent [talks](/talks.html) & trainings:

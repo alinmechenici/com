@@ -1,0 +1,20 @@
+---
+title: "Bookland's SummerCamp 2024"
+author: "Alin Mechenici"
+date: "2024-06-21"
+categories: [news, summer, events, CSR]
+image: "../../../assets/images/bookland-tabara_2023.jpg"
+---
+
+This year, we gladly accepted, once again, the BookLand's invitation to talk to kids. 
+
+The first edition, in "Poiana Marului", Caras Severin, on the 24th of June, and the second one in "Berevoiesti", Arges, on the 13th of July 2024.
+
+![Logo](bookland.png)
+![Logo](../../../assets/logos/chenist-academy.svg)
+
+I will have a "Cyber Hygiene" workshop with kids, ages 15-19.
+
+You can find the whole schedule [here](https://book-land.ro/program-tabere/).
+
+> You can read the Romanian version of the article, [here](/talks/ro/bookland-2024/).

@@ -1,0 +1,40 @@
+---
+title: "Scoala de Vara - Open4Tech"
+author: "Chenist Academy"
+date: "2024-06-21"
+categories: [stiri, CSR, evenimente, scoala de vara, igiena digitala, cursuri]
+image: "../../../assets/images/open4tech-summer-school-2024.png"
+---
+
+Departamentul de Informatica din cadrul Facultatii de Stiinte, Universitatea din Craiova si Asociatia "Societatea pentru Tehnologii Computationale - Society for Computer Technologies impreuna cu companiile Caphyon, Chenist Cybersecurity, Netrom Software si Syncro Soft oganizeaza scoala de vara Open4Tech - Summer School 2024.
+
+Cursurile se vor desfasura in perioada 24 iunie - 12 iulie 2024 si sunt adresate studentilor si elevilor pasionati de informatica.
+
+
+![Logo](../../../assets/images/open4tech-summer-school-2024.png)
+
+![Logo](../../../assets/logos/chenist-academy.svg)
+
+Te voi invata cum sa navighezi in peisajul securitatii cibernetice.
+
+Alatura-te cursului nostru intensiv de 4 ore, conceput special pentru studenti dornici sa exploreze lumea securitatii cibernetice. Acest curs practic te va echipa cu abilitatile si cunostintele esentiale pentru a naviga eficient in peisajul complex al securitatii cibernetice.
+
+Ce vei invata:
+
+- Intelegerea Amenintarilor Cibernetice: Dobandeste perspective asupra amenintarilor cibernetice comune si a modului in care acestea afecteaza indivizii si organizatiile.
+
+- Practici Sigure pe Internet: Invata cele mai bune practici pentru navigare sigura, inclusiv identificarea tentativelor de phishing si evitarea site-urilor malitioase.
+
+- Protectia Datelor: Descopera metode de protejare a informatiilor personale si a datelor impotriva atacurilor cibernetice.
+
+- Igiena Cibernetica de Baza: Aplica masuri de securitate cibernetica de baza pentru a-ti proteja dispozitivele si prezenta online.
+
+- Scenarii Practice: Participa la exercitii interactive si scenarii reale pentru a aplica ceea ce ai invatat.
+
+Dificultate: incepator
+
+Format: 2 sesiuni x 2h
+
+> You can read the English version of the article, [here](/talks/en/open4tech-summer-school-2024/).
+
+

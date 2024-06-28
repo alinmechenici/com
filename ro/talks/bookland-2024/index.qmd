@@ -1,0 +1,19 @@
+---
+title: "Tabara de vara - Bookland"
+author: "CHENIST Academy"
+date: "2024-06-21"
+categories: [stiri, CSR, scoala de vara, evenimente]
+image: "../../../assets/images/bookland-tabara_2023.jpg"
+---
+
+Locatia: La Mesteceni din Poiana Marului, Caras Severin
+Data: 24 Iun 2024  
+[Program](https://book-land.ro/program-tabere/)
+
+![Logo](bookland.png)
+![Logo](../../../assets/logos/chenist-academy.svg)
+
+
+
+> [En](/talks/en/bookland-2024/)
+

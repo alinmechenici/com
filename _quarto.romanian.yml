@@ -1,0 +1,26 @@
+project:
+  title: "Alin Mechenici {Ro}"
+  output-dir: ./_site/ro
+
+website:
+  navbar:
+    right:
+      - href: posts.qmd
+        text: Articole
+      - href: evenimente.qmd
+        text: Evenimente
+      - href: ../en
+        text: English
+        
+lang: ro
+
+format:
+  html:
+    theme: 
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    highlight-style: espresso
+    toc: true
+    fontsize: 1.1em
+    linestretch: 1.7

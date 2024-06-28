@@ -1,0 +1,35 @@
+---
+title: "Alin Mechenici"
+image: assets/images/alin.jpg
+listing:
+  contents: en/talks/**/*.qmd
+  sort: "date desc"
+  type: default
+  categories: true
+about:
+  template: broadside
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/alinmechenici
+    - icon: linkedin
+      text: LinkedIn
+      href: https://se.linkedin.com/alinmechenici
+    - icon: github
+      text: Github
+      href: https://github.com/alinmechenici
+---
+
+Welcome to my website!
+
+I am the CEO of [CHENIST](https://chen.ist/) the proactive cybersecurity company that is behing: [chenist.academy](https://chenist.academy/), [chenist.club](https://chenist.club/) and [chenist.digital](chenist.digital) projects. Follow our [events](events.html) page to see how we are trying to change the world, one step at a time.
+
+As an entrepreneur, trainer and cybersecurity consultant, I will use this webpage to help you stay motivated and become more cyber resilient. But I am also a rider, I love art, math and phylosophy. Hopefully, my new blog and soon the podcast I will start, it will help you in some ways. I am writing A.I. free content in [English](posts.html) and [Romanian](ro.html), but I will use some A.I. to help me keep my [Swedish](sv.html) up to date. 
+
+For my entrepreneurial journey, some technical articles on cybersecurity, open-source and probably some travel experiences I have with my cruiser and my cool and silent electric motorcycle on the hot streets, follow my RSS feed and subscribe to my substack newsletter.
+
+<iframe src="https://alinmechenici.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
+
+
+

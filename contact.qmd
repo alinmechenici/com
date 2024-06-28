@@ -1,0 +1,22 @@
+---
+title: "Contact"
+about:
+  template: broadside
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/alinmechenici
+    - icon: linkedin
+      text: LinkedIn
+      href: https://se.linkedin.com/alinmechenici
+    - icon: github
+      text: Github
+      href: https://github.com/alinmechenici
+    - icon: mastodon
+      text: Mastodon
+      href: https://mastodon.social/@alinmechenici
+---
+
+Email: alin at mechenici dot com 
+GPG Key: 
+Available within Tor at: 

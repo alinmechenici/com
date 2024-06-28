@@ -1,0 +1,41 @@
+---
+title: "Alin Mechenici"
+image: assets/images/alin.jpg
+listing:
+  contents: en/talks/**/*.qmd
+  sort: "date desc"
+  type: default
+  categories: true
+about:
+  template: broadside
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/alinmechenici
+    - icon: linkedin
+      text: LinkedIn
+      href: https://se.linkedin.com/alinmechenici
+    - icon: github
+      text: Github
+      href: https://github.com/alinmechenici
+    - icon: mastodon
+      text: Mastodon
+      href: https://mastodon.social/@alinmechenici
+---
+
+
+I love building secure platforms, strong teams and cultures.
+
+My latest startup is [CHENIST Cybersecurity](https://chen.ist/). In the past I bootstrapped 2 NGOs and 3 companies (in two countries) and worked with clients and partners like NASA, Mjardevi Science Park, etc, but also with SMEs and NGOs. 
+
+My main skills:
+
+- Configuration management and hardening of Unix servers for secure, reliable, declarative and reproducible systems
+- Preserving privacy and anonymity of key stakeholders and employees
+- Security by design for data at rest and data in movement
+- Identity and Access Management, Device Management, Data Loss Prevention, Digital Risk Management
+- Cyber Hygiene and Awareness
+
+Follow my [talks](talks.html), read my [blog](en.html) and participate in my [events](events.html). Also, follow and contact me via social media accounts.
+
+<iframe src="https://alinmechenici.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
