@@ -7,7 +7,7 @@ execute:
 
 profile:
   default: english
-  group: [english, romanian]
+  group: [english, romanian, swedish]
 
 website:
   title: "Alin Mechenici"
