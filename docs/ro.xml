@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Alin Mechenici</title>
+<link>https://alin.mechenici.com/ro.html</link>
+<atom:link href="https://alin.mechenici.com/ro.xml" rel="self" type="application/rss+xml"/>
+<description>This is Alin Mechenici&#39;s personal Blog.</description>
+<generator>quarto-1.4.554</generator>
+<lastBuildDate>Thu, 20 Jun 2024 21:00:00 GMT</lastBuildDate>
+<item>
+  <title>Evenimente</title>
+  <dc:creator>Chenist Academy</dc:creator>
+  <link>https://alin.mechenici.com/ro/evenimente/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>code</category>
+  <category>events</category>
+  <guid>https://alin.mechenici.com/ro/evenimente/</guid>
+  <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
+  <media:content url="https://alin.mechenici.com/ro/evenimente/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Scoala de Vara - Open4Tech</title>
+  <dc:creator>Chenist Academy</dc:creator>
+  <link>https://alin.mechenici.com/ro/talks/open4tech-summer-school-2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Departamentul de Informatica din cadrul Facultatii de Stiinte, Universitatea din Craiova si Asociatia “Societatea pentru Tehnologii Computationale - Society for Computer Technologies impreuna cu companiile Caphyon, Chenist Cybersecurity, Netrom Software si Syncro Soft oganizeaza scoala de vara Open4Tech - Summer School 2024.</p>
+<p>Cursurile se vor desfasura in perioada 24 iunie - 12 iulie 2024 si sunt adresate studentilor si elevilor pasionati de informatica.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alin.mechenici.com/assets/images/open4tech-summer-school-2024.png" class="img-fluid figure-img"></p>
+<figcaption>Logo</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alin.mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid figure-img"></p>
+<figcaption>Logo</figcaption>
+</figure>
+</div>
+<p>Te voi invata cum sa navighezi in peisajul securitatii cibernetice.</p>
+<p>Alatura-te cursului nostru intensiv de 4 ore, conceput special pentru studenti dornici sa exploreze lumea securitatii cibernetice. Acest curs practic te va echipa cu abilitatile si cunostintele esentiale pentru a naviga eficient in peisajul complex al securitatii cibernetice.</p>
+<p>Ce vei invata:</p>
+<ul>
+<li><p>Intelegerea Amenintarilor Cibernetice: Dobandeste perspective asupra amenintarilor cibernetice comune si a modului in care acestea afecteaza indivizii si organizatiile.</p></li>
+<li><p>Practici Sigure pe Internet: Invata cele mai bune practici pentru navigare sigura, inclusiv identificarea tentativelor de phishing si evitarea site-urilor malitioase.</p></li>
+<li><p>Protectia Datelor: Descopera metode de protejare a informatiilor personale si a datelor impotriva atacurilor cibernetice.</p></li>
+<li><p>Igiena Cibernetica de Baza: Aplica masuri de securitate cibernetica de baza pentru a-ti proteja dispozitivele si prezenta online.</p></li>
+<li><p>Scenarii Practice: Participa la exercitii interactive si scenarii reale pentru a aplica ceea ce ai invatat.</p></li>
+</ul>
+<p>Dificultate: incepator</p>
+<p>Format: 2 sesiuni x 2h</p>
+<blockquote class="blockquote">
+<p>You can read the English version of the article, <a href="../../../talks/en/open4tech-summer-school-2024/">here</a>.</p>
+</blockquote>
+
+
+
+ ]]></description>
+  <category>stiri</category>
+  <category>CSR</category>
+  <category>evenimente</category>
+  <category>scoala de vara</category>
+  <category>igiena digitala</category>
+  <category>cursuri</category>
+  <guid>https://alin.mechenici.com/ro/talks/open4tech-summer-school-2024/</guid>
+  <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
+  <media:content url="https://alin.mechenici.com/assets/images/open4tech-summer-school-2024.png" medium="image" type="image/png" height="68" width="144"/>
+</item>
+<item>
+  <title>Tabara de vara - Bookland</title>
+  <dc:creator>CHENIST Academy</dc:creator>
+  <link>https://alin.mechenici.com/ro/talks/bookland-2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Locatia: La Mesteceni din Poiana Marului, Caras Severin Data: 24 Iun 2024<br>
+<a href="https://book-land.ro/program-tabere/">Program</a></p>
+<p><img src="https://alin.mechenici.com/ro/talks/bookland-2024/bookland.png" class="img-fluid" alt="Logo"> <img src="https://alin.mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid" alt="Logo"></p>
+<blockquote class="blockquote">
+<p><a href="../../../talks/en/bookland-2024/">En</a></p>
+</blockquote>
+
+
+
+ ]]></description>
+  <category>stiri</category>
+  <category>CSR</category>
+  <category>scoala de vara</category>
+  <category>evenimente</category>
+  <guid>https://alin.mechenici.com/ro/talks/bookland-2024/</guid>
+  <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
+  <media:content url="https://alin.mechenici.com/assets/images/bookland-tabara_2023.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Web3-builders</title>
+  <dc:creator>Alin Mechenici</dc:creator>
+  <link>https://alin.mechenici.com/ro/talks/web3-builders/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Aseara, am participat la <a href="https://tokero.com/ro/webinars/tokero-craiova-meetup-educatie-financiara-si-investitii-21/">Web3 Builders</a>, panel organizat de Tokero.</p>
+<blockquote class="blockquote">
+<p><a href="../../../talks/en/web3-dev/">English version</a></p>
+</blockquote>
+<p><img src="https://alin.mechenici.com/assets/images/web3dev-panel.jpg" class="img-fluid" alt="Logo"> <img src="https://alin.mechenici.com/assets/logos/chenist.png" class="img-fluid" alt="Logo"></p>
+
+
+
+ ]]></description>
+  <category>meetups</category>
+  <category>dev</category>
+  <category>web3</category>
+  <category>evenimente</category>
+  <category>crypto</category>
+  <guid>https://alin.mechenici.com/ro/talks/web3-builders/</guid>
+  <pubDate>Tue, 18 Jun 2024 21:00:00 GMT</pubDate>
+  <media:content url="https://alin.mechenici.com/assets/images/web3dev-panel.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Evenimente la care particip in vara aceasta</title>
+  <dc:creator>Alin Mechenici</dc:creator>
+  <link>https://alin.mechenici.com/ro/talks/evenimente-vara-aceasta/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Aseara, am participat la <a href="https://tokero.com/ro/webinars/tokero-craiova-meetup-educatie-financiara-si-investitii-21/">Web3 Builders</a>, panel organizat de Tokero. Detalii despre eveniment gasiti aici](/ro/talks/web3-builders) si varianta in engleza <a href="../../../en/talks/web3-builders">aici</a>.</p>
+<p>Anul acesta, am acceptat cu plăcere, încă o dată, invitația BookLand de a vorbi cu copiii.</p>
+<p>Locatia: La Mesteceni din Poiana Marului, Caras Severin Data: 24 Iun 2024<br>
+<a href="https://book-land.ro/program-tabere/">Program</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alin.mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid figure-img"></p>
+<figcaption>Logo</figcaption>
+</figure>
+</div>
+<p>Este posibil sa pot participa si la a doua la locatie a editiei din acest an, si anume in „Berevoiești”, Argeș, pe 13 iulie 2024. Revin cu datalii <a href="../../../ro/talks/bookland-2024">aici</a>.</p>
+<blockquote class="blockquote">
+<p><a href="../../../en/events/bookland-2024/">En</a></p>
+</blockquote>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alin.mechenici.com/assets/images/open4tech-summer-school-2024.png" class="img-fluid figure-img"></p>
+<figcaption>Scoala de Vara a Universitatii din Craiova</figcaption>
+</figure>
+</div>
+<p>De asemenea, Departamentul de Informatica din cadrul Facultatii de Stiinte, Universitatea din Craiova m-a invitat sa sustin un curs, din partea CHENIST Cybersecurity, la scoala de vara Open4Tech - Summer School 2024.</p>
+<blockquote class="blockquote">
+<p>You can read the English version of the article, <a href="../../../talks/en/open4tech-summer-school-2024/">here</a>.</p>
+</blockquote>
+<p>Pentru moment, varianta cu mai multe detalii o gasesti pe <a href="../../../en/events/">pagina in limba engleza</a>.</p>
+<p>Revin cu update-uri in curand.</p>
+
+
+
+ ]]></description>
+  <category>stiri</category>
+  <category>CSR</category>
+  <category>scoala de vara</category>
+  <category>evenimente</category>
+  <guid>https://alin.mechenici.com/ro/talks/evenimente-vara-aceasta/</guid>
+  <pubDate>Fri, 14 Jun 2024 21:00:00 GMT</pubDate>
+  <media:content url="https://alin.mechenici.com/ro/talks/evenimente-vara-aceasta/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
