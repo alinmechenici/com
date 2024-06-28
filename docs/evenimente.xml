@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Alin Mechenici</title>
-<link>https://alin.mechenici.com/evenimente.html</link>
-<atom:link href="https://alin.mechenici.com/evenimente.xml" rel="self" type="application/rss+xml"/>
+<link>https://mechenici.com/evenimente.html</link>
+<atom:link href="https://mechenici.com/evenimente.xml" rel="self" type="application/rss+xml"/>
 <description>This is Alin Mechenici&#39;s personal Blog.</description>
 <generator>quarto-1.4.554</generator>
 <lastBuildDate>Thu, 20 Jun 2024 21:00:00 GMT</lastBuildDate>
 <item>
   <title>Evenimente</title>
   <dc:creator>Chenist Academy</dc:creator>
-  <link>https://alin.mechenici.com/ro/evenimente/</link>
+  <link>https://mechenici.com/ro/evenimente/</link>
   <description><![CDATA[ 
 
 
@@ -28,9 +28,9 @@
   <category>news</category>
   <category>code</category>
   <category>events</category>
-  <guid>https://alin.mechenici.com/ro/evenimente/</guid>
+  <guid>https://mechenici.com/ro/evenimente/</guid>
   <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
-  <media:content url="https://alin.mechenici.com/ro/evenimente/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://mechenici.com/ro/evenimente/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

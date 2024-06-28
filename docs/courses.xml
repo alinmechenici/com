@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Alin Mechenici</title>
+<link>https://mechenici.com/courses.html</link>
+<atom:link href="https://mechenici.com/courses.xml" rel="self" type="application/rss+xml"/>
+<description>This is Alin Mechenici&#39;s personal Blog.</description>
+<generator>quarto-1.4.554</generator>
+<lastBuildDate>Wed, 26 Jun 2024 21:00:00 GMT</lastBuildDate>
+<item>
+  <title>Course for Summer School Open4Tech</title>
+  <dc:creator>Chenist Academy</dc:creator>
+  <link>https://mechenici.com/en/courses/open4tech-summer-school-2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://mechenici.com/assets/images/open4tech-summer-school-2024.png" class="img-fluid"></p>
+<p>Thank you Mr.&nbsp;Mirel Cosulschi for the invitation to participate in this edition of the <a href="../../../en/talks/open4tech-summer-school-2024/">Open4tech Summer School 2024</a>.</p>
+<p>Our training on “how to navigate the cybersecurity landscape” consists in a 2 sessions x 2h format. The first part of the course it will take today, 27th of June.</p>
+<p>Before we begin, who are we?</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid figure-img"></p>
+<figcaption><a href="https://chenist.academy">CHENIST Academy</a> - part of CHENIST Cybersecurity</figcaption>
+</figure>
+</div>
+<p>We will teach you on how to navigate the cybersecurity landscape, step by step.</p>
+<p>What You’ll Learn In This 4 hours Course:</p>
+<ul>
+<li><p>Understanding Cyber Threats: Gain insights into common cyber threats and how they impact individuals and organizations.</p></li>
+<li><p>Safe Internet Practices: Learn best practices for safe browsing, including identifying phishing attempts and avoiding malicious websites.</p></li>
+<li><p>Data Protection: Discover methods to protect your personal information and data from cyber attacks.</p></li>
+<li><p>Basic Cyber Hygiene: Implement basic cybersecurity measures to safeguard your devices and online presence.</p></li>
+<li><p>Practical Scenarios: Engage in interactive exercises and real-world scenarios to apply what you’ve learned.</p></li>
+</ul>
+<p>Now, let’s explore the world of cybersecurity together for the first section of the course:</p>
+<p>1st hour [Cyber Awareness]:</p>
+<ul>
+<li>GKTNEO</li>
+<li>What is Cybersecurity?</li>
+<li>How can cybersecurity and the lack of it can affect you [Cyber Risks]?</li>
+<li>“You have nothing to hide?” - and other myths</li>
+<li>Data leaks and you (haveibeenpwnd.com)</li>
+<li>Who are the main cyber actors?</li>
+<li>What can you do to improve your cyber resilience?</li>
+<li>Q&amp;A</li>
+</ul>
+<p>2nd hour [Cyber Hygiene]:</p>
+<ul>
+<li>What is Cyber Hygiene?</li>
+<li>What can you do to improve your C.H.?</li>
+<li>Browsing / Passwords / Encryption / VMs / Specific setups</li>
+<li>Q&amp;A</li>
+</ul>
+<p>If you haven’t <a href="http://inf.ucv.ro/~summer-school/cursuri.php">RSVP</a> already, I think you can still do it.</p>
+<blockquote class="blockquote">
+<p>Poti citi in curand varianta in romana a articolului, <a href="../../../talks/ro/open4tech-summer-school-2024/">aici</a>.</p>
+</blockquote>
+
+
+
+ ]]></description>
+  <category>course</category>
+  <category>cyberhygiene</category>
+  <category>cyberawareness</category>
+  <category>beginner</category>
+  <category>events</category>
+  <category>summer-school</category>
+  <category>UCV</category>
+  <guid>https://mechenici.com/en/courses/open4tech-summer-school-2024/</guid>
+  <pubDate>Wed, 26 Jun 2024 21:00:00 GMT</pubDate>
+  <media:content url="https://mechenici.com/assets/images/open4tech-summer-school-2024.png" medium="image" type="image/png" height="68" width="144"/>
+</item>
+<item>
+  <title>Bookland’s SummerCamp 2024</title>
+  <dc:creator>Alin Mechenici</dc:creator>
+  <link>https://mechenici.com/en/courses/bookland-2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This year, we gladly accepted, once again, the BookLand’s invitation to talk to kids.</p>
+<p>The first edition, in “Poiana Marului”, Caras Severin, on the 24th of June, and the second one in “Berevoiesti”, Arges, on the 13th of July 2024.</p>
+<p><img src="https://mechenici.com/en/courses/bookland-2024/bookland.png" class="img-fluid" alt="Logo"> <img src="https://mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid" alt="Logo"></p>
+<p>I will have a “Cyber Hygiene” workshop with kids, ages 15-19.</p>
+<p>You can find the whole schedule <a href="https://book-land.ro/program-tabere/">here</a>.</p>
+<blockquote class="blockquote">
+<p>You can read the Romanian version of the article, <a href="../../../talks/ro/bookland-2024/">here</a>.</p>
+</blockquote>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>summer</category>
+  <category>events</category>
+  <category>CSR</category>
+  <guid>https://mechenici.com/en/courses/bookland-2024/</guid>
+  <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
+  <media:content url="https://mechenici.com/assets/images/bookland-tabara_2023.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

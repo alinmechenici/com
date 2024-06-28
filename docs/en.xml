@@ -6,28 +6,28 @@
       version="2.0">
 <channel>
 <title>Alin Mechenici</title>
-<link>https://alin.mechenici.com/en.html</link>
-<atom:link href="https://alin.mechenici.com/en.xml" rel="self" type="application/rss+xml"/>
+<link>https://mechenici.com/en.html</link>
+<atom:link href="https://mechenici.com/en.xml" rel="self" type="application/rss+xml"/>
 <description>This is Alin Mechenici&#39;s personal Blog.</description>
 <generator>quarto-1.4.554</generator>
 <lastBuildDate>Wed, 26 Jun 2024 21:00:00 GMT</lastBuildDate>
 <item>
   <title>Course for Summer School Open4Tech</title>
   <dc:creator>Chenist Academy</dc:creator>
-  <link>https://alin.mechenici.com/en/courses/open4tech-summer-school-2024/</link>
+  <link>https://mechenici.com/en/courses/open4tech-summer-school-2024/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="https://alin.mechenici.com/assets/images/open4tech-summer-school-2024.png" class="img-fluid"></p>
+<p><img src="https://mechenici.com/assets/images/open4tech-summer-school-2024.png" class="img-fluid"></p>
 <p>Thank you Mr.&nbsp;Mirel Cosulschi for the invitation to participate in this edition of the <a href="../../../en/talks/open4tech-summer-school-2024/">Open4tech Summer School 2024</a>.</p>
 <p>Our training on “how to navigate the cybersecurity landscape” consists in a 2 sessions x 2h format. The first part of the course it will take today, 27th of June.</p>
 <p>Before we begin, who are we?</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://alin.mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid figure-img"></p>
+<p><img src="https://mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid figure-img"></p>
 <figcaption><a href="https://chenist.academy">CHENIST Academy</a> - part of CHENIST Cybersecurity</figcaption>
 </figure>
 </div>
@@ -74,14 +74,14 @@
   <category>events</category>
   <category>summer-school</category>
   <category>UCV</category>
-  <guid>https://alin.mechenici.com/en/courses/open4tech-summer-school-2024/</guid>
+  <guid>https://mechenici.com/en/courses/open4tech-summer-school-2024/</guid>
   <pubDate>Wed, 26 Jun 2024 21:00:00 GMT</pubDate>
-  <media:content url="https://alin.mechenici.com/assets/images/open4tech-summer-school-2024.png" medium="image" type="image/png" height="68" width="144"/>
+  <media:content url="https://mechenici.com/assets/images/open4tech-summer-school-2024.png" medium="image" type="image/png" height="68" width="144"/>
 </item>
 <item>
   <title>Summer School</title>
   <dc:creator>Chenist Academy</dc:creator>
-  <link>https://alin.mechenici.com/en/events/summer-school/</link>
+  <link>https://mechenici.com/en/events/summer-school/</link>
   <description><![CDATA[ 
 
 
@@ -95,14 +95,14 @@
   <category>news</category>
   <category>code</category>
   <category>events</category>
-  <guid>https://alin.mechenici.com/en/events/summer-school/</guid>
+  <guid>https://mechenici.com/en/events/summer-school/</guid>
   <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
-  <media:content url="https://alin.mechenici.com/en/events/summer-school/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://mechenici.com/en/events/summer-school/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Events this summer</title>
   <dc:creator>Alin Mechenici</dc:creator>
-  <link>https://alin.mechenici.com/en/blog/events-this-summer/</link>
+  <link>https://mechenici.com/en/blog/events-this-summer/</link>
   <description><![CDATA[ 
 
 
@@ -117,14 +117,14 @@
   <category>news</category>
   <category>code</category>
   <category>events</category>
-  <guid>https://alin.mechenici.com/en/blog/events-this-summer/</guid>
+  <guid>https://mechenici.com/en/blog/events-this-summer/</guid>
   <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
-  <media:content url="https://alin.mechenici.com/en/blog/events-this-summer/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://mechenici.com/en/blog/events-this-summer/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Sailfish OS</title>
   <dc:creator>Alin Mechenici</dc:creator>
-  <link>https://alin.mechenici.com/en/blog/sailfishos/</link>
+  <link>https://mechenici.com/en/blog/sailfishos/</link>
   <description><![CDATA[ 
 
 
@@ -142,14 +142,14 @@ harbour-qrclip</p>
   <category>tech</category>
   <category>OS</category>
   <category>mobile</category>
-  <guid>https://alin.mechenici.com/en/blog/sailfishos/</guid>
+  <guid>https://mechenici.com/en/blog/sailfishos/</guid>
   <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
-  <media:content url="https://alin.mechenici.com/assets/images/sailfishos.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://mechenici.com/assets/images/sailfishos.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Bookland’s SummerCamp 2024</title>
   <dc:creator>Alin Mechenici</dc:creator>
-  <link>https://alin.mechenici.com/en/courses/bookland-2024/</link>
+  <link>https://mechenici.com/en/courses/bookland-2024/</link>
   <description><![CDATA[ 
 
 
@@ -158,7 +158,7 @@ harbour-qrclip</p>
 
 <p>This year, we gladly accepted, once again, the BookLand’s invitation to talk to kids.</p>
 <p>The first edition, in “Poiana Marului”, Caras Severin, on the 24th of June, and the second one in “Berevoiesti”, Arges, on the 13th of July 2024.</p>
-<p><img src="https://alin.mechenici.com/en/courses/bookland-2024/bookland.png" class="img-fluid" alt="Logo"> <img src="https://alin.mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid" alt="Logo"></p>
+<p><img src="https://mechenici.com/en/courses/bookland-2024/bookland.png" class="img-fluid" alt="Logo"> <img src="https://mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid" alt="Logo"></p>
 <p>I will have a “Cyber Hygiene” workshop with kids, ages 15-19.</p>
 <p>You can find the whole schedule <a href="https://book-land.ro/program-tabere/">here</a>.</p>
 <blockquote class="blockquote">
@@ -172,14 +172,14 @@ harbour-qrclip</p>
   <category>summer</category>
   <category>events</category>
   <category>CSR</category>
-  <guid>https://alin.mechenici.com/en/courses/bookland-2024/</guid>
+  <guid>https://mechenici.com/en/courses/bookland-2024/</guid>
   <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
-  <media:content url="https://alin.mechenici.com/assets/images/bookland-tabara_2023.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://mechenici.com/assets/images/bookland-tabara_2023.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Summer School Open4Tech</title>
   <dc:creator>Chenist Academy</dc:creator>
-  <link>https://alin.mechenici.com/en/talks/open4tech-summer-school-2024/</link>
+  <link>https://mechenici.com/en/talks/open4tech-summer-school-2024/</link>
   <description><![CDATA[ 
 
 
@@ -188,8 +188,8 @@ harbour-qrclip</p>
 
 <p>The Department of Computer Science within the Faculty of Sciences at the University of Craiova, <a href="http://inf.ucv.ro/~summer-school/organizatori.php">in collaboration</a> with the “Society for Computer Technologies” Association and companies <a href="https://caphyon.ro">Caphyon</a>, <a href="https://chen.ist">Chenist Cybersecurity</a>, <a href="https://netrom.ro">Netrom Software</a> si <a href="https://sync.ro">Syncro Soft</a>, is organizing the <a href="http://stud.inf.ucv.ro/2024/06/open4tech-summer-school-2024/">Open4Tech - Summer School 2024</a>.</p>
 <p>The courses will take place from June 24 to July 12, 2024, and are intended for students and high school pupils passionate about computer science.</p>
-<p><img src="https://alin.mechenici.com/assets/images/open4tech-summer-school-2024.png" class="img-fluid"></p>
-<p><img src="https://alin.mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid"></p>
+<p><img src="https://mechenici.com/assets/images/open4tech-summer-school-2024.png" class="img-fluid"></p>
+<p><img src="https://mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid"></p>
 <p>I will teach you on how to navigate the cybersecurity landscape</p>
 <p>Join our intensive 4-hour course designed specifically students eager to explore the world of cybersecurity. This hands-on course will equip you with the essential skills and knowledge to navigate the complex cybersecurity landscape effectively.</p>
 <p>What You’ll Learn:</p>
@@ -214,14 +214,14 @@ harbour-qrclip</p>
   <category>CSR</category>
   <category>events</category>
   <category>summer school</category>
-  <guid>https://alin.mechenici.com/en/talks/open4tech-summer-school-2024/</guid>
+  <guid>https://mechenici.com/en/talks/open4tech-summer-school-2024/</guid>
   <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
-  <media:content url="https://alin.mechenici.com/assets/images/open4tech-summer-school-2024.png" medium="image" type="image/png" height="68" width="144"/>
+  <media:content url="https://mechenici.com/assets/images/open4tech-summer-school-2024.png" medium="image" type="image/png" height="68" width="144"/>
 </item>
 <item>
   <title>Web3-builders</title>
   <dc:creator>Alin Mechenici</dc:creator>
-  <link>https://alin.mechenici.com/en/talks/web3-builders/</link>
+  <link>https://mechenici.com/en/talks/web3-builders/</link>
   <description><![CDATA[ 
 
 
@@ -232,7 +232,7 @@ harbour-qrclip</p>
 <blockquote class="blockquote">
 <p><a href="../../../talks/ro/web3-dev/">Romanian version</a></p>
 </blockquote>
-<p><img src="https://alin.mechenici.com/assets/images/web3dev-panel.jpg" class="img-fluid" alt="Logo"> <img src="https://alin.mechenici.com/assets/logos/chenist.png" class="img-fluid" alt="Logo"></p>
+<p><img src="https://mechenici.com/assets/images/web3dev-panel.jpg" class="img-fluid" alt="Logo"> <img src="https://mechenici.com/assets/logos/chenist.png" class="img-fluid" alt="Logo"></p>
 
 
 
@@ -242,14 +242,14 @@ harbour-qrclip</p>
   <category>web3</category>
   <category>events</category>
   <category>crypto</category>
-  <guid>https://alin.mechenici.com/en/talks/web3-builders/</guid>
+  <guid>https://mechenici.com/en/talks/web3-builders/</guid>
   <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
-  <media:content url="https://alin.mechenici.com/assets/images/web3dev-panel.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://mechenici.com/assets/images/web3dev-panel.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Bookland’s SummerCamp 2024</title>
   <dc:creator>Alin Mechenici</dc:creator>
-  <link>https://alin.mechenici.com/en/talks/bookland-2024/</link>
+  <link>https://mechenici.com/en/talks/bookland-2024/</link>
   <description><![CDATA[ 
 
 
@@ -258,7 +258,7 @@ harbour-qrclip</p>
 
 <p>This year, we gladly accepted, once again, the BookLand’s invitation to talk to kids.</p>
 <p>The first edition, in “Poiana Marului”, Caras Severin, on the 24th of June, and the second one in “Berevoiesti”, Arges, on the 13th of July 2024.</p>
-<p><img src="https://alin.mechenici.com/en/talks/bookland-2024/bookland.png" class="img-fluid" alt="Logo"> <img src="https://alin.mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid" alt="Logo"></p>
+<p><img src="https://mechenici.com/en/talks/bookland-2024/bookland.png" class="img-fluid" alt="Logo"> <img src="https://mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid" alt="Logo"></p>
 <p>I will have a “Cyber Hygiene” workshop with kids, ages 15-19.</p>
 <p>You can find the whole schedule <a href="https://book-land.ro/program-tabere/">here</a>.</p>
 <blockquote class="blockquote">
@@ -272,26 +272,26 @@ harbour-qrclip</p>
   <category>summer</category>
   <category>events</category>
   <category>CSR</category>
-  <guid>https://alin.mechenici.com/en/talks/bookland-2024/</guid>
+  <guid>https://mechenici.com/en/talks/bookland-2024/</guid>
   <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
-  <media:content url="https://alin.mechenici.com/assets/images/bookland-tabara_2023.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://mechenici.com/assets/images/bookland-tabara_2023.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Previously</title>
-  <link>https://alin.mechenici.com/en/blog/previously/</link>
+  <link>https://mechenici.com/en/blog/previously/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="https://alin.mechenici.com/en/blog/previously/thumbnail.jpg" class="img-fluid"></p>
+<p><img src="https://mechenici.com/en/blog/previously/thumbnail.jpg" class="img-fluid"></p>
 
 
 
  ]]></description>
   <category>news</category>
-  <guid>https://alin.mechenici.com/en/blog/previously/</guid>
+  <guid>https://mechenici.com/en/blog/previously/</guid>
   <pubDate>Mon, 17 Jun 2024 21:00:00 GMT</pubDate>
 </item>
 </channel>

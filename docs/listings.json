@@ -29,6 +29,14 @@
     ]
   },
   {
+    "listing": "/now.html",
+    "items": [
+      "/en/talks/bookland-2024/index.html",
+      "/en/talks/open4tech-summer-school-2024/index.html",
+      "/en/talks/web3-builders/index.html"
+    ]
+  },
+  {
     "listing": "/talks.html",
     "items": [
       "/en/talks/bookland-2024/index.html",
@@ -37,11 +45,10 @@
     ]
   },
   {
-    "listing": "/now.html",
+    "listing": "/courses.html",
     "items": [
-      "/en/talks/bookland-2024/index.html",
-      "/en/talks/open4tech-summer-school-2024/index.html",
-      "/en/talks/web3-builders/index.html"
+      "/en/courses/open4tech-summer-school-2024/index.html",
+      "/en/courses/bookland-2024/index.html"
     ]
   },
   {

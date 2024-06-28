@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Alin Mechenici</title>
-<link>https://alin.mechenici.com/ro.html</link>
-<atom:link href="https://alin.mechenici.com/ro.xml" rel="self" type="application/rss+xml"/>
+<link>https://mechenici.com/ro.html</link>
+<atom:link href="https://mechenici.com/ro.xml" rel="self" type="application/rss+xml"/>
 <description>This is Alin Mechenici&#39;s personal Blog.</description>
 <generator>quarto-1.4.554</generator>
 <lastBuildDate>Thu, 20 Jun 2024 21:00:00 GMT</lastBuildDate>
 <item>
   <title>Evenimente</title>
   <dc:creator>Chenist Academy</dc:creator>
-  <link>https://alin.mechenici.com/ro/evenimente/</link>
+  <link>https://mechenici.com/ro/evenimente/</link>
   <description><![CDATA[ 
 
 
@@ -28,14 +28,14 @@
   <category>news</category>
   <category>code</category>
   <category>events</category>
-  <guid>https://alin.mechenici.com/ro/evenimente/</guid>
+  <guid>https://mechenici.com/ro/evenimente/</guid>
   <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
-  <media:content url="https://alin.mechenici.com/ro/evenimente/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://mechenici.com/ro/evenimente/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Scoala de Vara - Open4Tech</title>
   <dc:creator>Chenist Academy</dc:creator>
-  <link>https://alin.mechenici.com/ro/talks/open4tech-summer-school-2024/</link>
+  <link>https://mechenici.com/ro/talks/open4tech-summer-school-2024/</link>
   <description><![CDATA[ 
 
 
@@ -46,13 +46,13 @@
 <p>Cursurile se vor desfasura in perioada 24 iunie - 12 iulie 2024 si sunt adresate studentilor si elevilor pasionati de informatica.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://alin.mechenici.com/assets/images/open4tech-summer-school-2024.png" class="img-fluid figure-img"></p>
+<p><img src="https://mechenici.com/assets/images/open4tech-summer-school-2024.png" class="img-fluid figure-img"></p>
 <figcaption>Logo</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://alin.mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid figure-img"></p>
+<p><img src="https://mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid figure-img"></p>
 <figcaption>Logo</figcaption>
 </figure>
 </div>
@@ -81,14 +81,14 @@
   <category>scoala de vara</category>
   <category>igiena digitala</category>
   <category>cursuri</category>
-  <guid>https://alin.mechenici.com/ro/talks/open4tech-summer-school-2024/</guid>
+  <guid>https://mechenici.com/ro/talks/open4tech-summer-school-2024/</guid>
   <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
-  <media:content url="https://alin.mechenici.com/assets/images/open4tech-summer-school-2024.png" medium="image" type="image/png" height="68" width="144"/>
+  <media:content url="https://mechenici.com/assets/images/open4tech-summer-school-2024.png" medium="image" type="image/png" height="68" width="144"/>
 </item>
 <item>
   <title>Tabara de vara - Bookland</title>
   <dc:creator>CHENIST Academy</dc:creator>
-  <link>https://alin.mechenici.com/ro/talks/bookland-2024/</link>
+  <link>https://mechenici.com/ro/talks/bookland-2024/</link>
   <description><![CDATA[ 
 
 
@@ -97,7 +97,7 @@
 
 <p>Locatia: La Mesteceni din Poiana Marului, Caras Severin Data: 24 Iun 2024<br>
 <a href="https://book-land.ro/program-tabere/">Program</a></p>
-<p><img src="https://alin.mechenici.com/ro/talks/bookland-2024/bookland.png" class="img-fluid" alt="Logo"> <img src="https://alin.mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid" alt="Logo"></p>
+<p><img src="https://mechenici.com/ro/talks/bookland-2024/bookland.png" class="img-fluid" alt="Logo"> <img src="https://mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid" alt="Logo"></p>
 <blockquote class="blockquote">
 <p><a href="../../../talks/en/bookland-2024/">En</a></p>
 </blockquote>
@@ -109,14 +109,14 @@
   <category>CSR</category>
   <category>scoala de vara</category>
   <category>evenimente</category>
-  <guid>https://alin.mechenici.com/ro/talks/bookland-2024/</guid>
+  <guid>https://mechenici.com/ro/talks/bookland-2024/</guid>
   <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
-  <media:content url="https://alin.mechenici.com/assets/images/bookland-tabara_2023.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://mechenici.com/assets/images/bookland-tabara_2023.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Web3-builders</title>
   <dc:creator>Alin Mechenici</dc:creator>
-  <link>https://alin.mechenici.com/ro/talks/web3-builders/</link>
+  <link>https://mechenici.com/ro/talks/web3-builders/</link>
   <description><![CDATA[ 
 
 
@@ -127,7 +127,7 @@
 <blockquote class="blockquote">
 <p><a href="../../../talks/en/web3-dev/">English version</a></p>
 </blockquote>
-<p><img src="https://alin.mechenici.com/assets/images/web3dev-panel.jpg" class="img-fluid" alt="Logo"> <img src="https://alin.mechenici.com/assets/logos/chenist.png" class="img-fluid" alt="Logo"></p>
+<p><img src="https://mechenici.com/assets/images/web3dev-panel.jpg" class="img-fluid" alt="Logo"> <img src="https://mechenici.com/assets/logos/chenist.png" class="img-fluid" alt="Logo"></p>
 
 
 
@@ -137,14 +137,14 @@
   <category>web3</category>
   <category>evenimente</category>
   <category>crypto</category>
-  <guid>https://alin.mechenici.com/ro/talks/web3-builders/</guid>
+  <guid>https://mechenici.com/ro/talks/web3-builders/</guid>
   <pubDate>Tue, 18 Jun 2024 21:00:00 GMT</pubDate>
-  <media:content url="https://alin.mechenici.com/assets/images/web3dev-panel.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://mechenici.com/assets/images/web3dev-panel.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Evenimente la care particip in vara aceasta</title>
   <dc:creator>Alin Mechenici</dc:creator>
-  <link>https://alin.mechenici.com/ro/talks/evenimente-vara-aceasta/</link>
+  <link>https://mechenici.com/ro/talks/evenimente-vara-aceasta/</link>
   <description><![CDATA[ 
 
 
@@ -157,7 +157,7 @@
 <a href="https://book-land.ro/program-tabere/">Program</a></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://alin.mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid figure-img"></p>
+<p><img src="https://mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid figure-img"></p>
 <figcaption>Logo</figcaption>
 </figure>
 </div>
@@ -167,7 +167,7 @@
 </blockquote>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://alin.mechenici.com/assets/images/open4tech-summer-school-2024.png" class="img-fluid figure-img"></p>
+<p><img src="https://mechenici.com/assets/images/open4tech-summer-school-2024.png" class="img-fluid figure-img"></p>
 <figcaption>Scoala de Vara a Universitatii din Craiova</figcaption>
 </figure>
 </div>
@@ -185,9 +185,9 @@
   <category>CSR</category>
   <category>scoala de vara</category>
   <category>evenimente</category>
-  <guid>https://alin.mechenici.com/ro/talks/evenimente-vara-aceasta/</guid>
+  <guid>https://mechenici.com/ro/talks/evenimente-vara-aceasta/</guid>
   <pubDate>Fri, 14 Jun 2024 21:00:00 GMT</pubDate>
-  <media:content url="https://alin.mechenici.com/ro/talks/evenimente-vara-aceasta/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://mechenici.com/ro/talks/evenimente-vara-aceasta/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

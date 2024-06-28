@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Alin Mechenici</title>
-<link>https://alin.mechenici.com/sv.html</link>
-<atom:link href="https://alin.mechenici.com/sv.xml" rel="self" type="application/rss+xml"/>
+<link>https://mechenici.com/sv.html</link>
+<atom:link href="https://mechenici.com/sv.xml" rel="self" type="application/rss+xml"/>
 <description>This is Alin Mechenici&#39;s personal Blog.</description>
 <generator>quarto-1.4.554</generator>
 <lastBuildDate>Thu, 20 Jun 2024 21:00:00 GMT</lastBuildDate>
 <item>
   <title>Evenemang i sommar</title>
   <dc:creator>Alin Mechenici</dc:creator>
-  <link>https://alin.mechenici.com/sv/blog/evenemang-i-sommar/</link>
+  <link>https://mechenici.com/sv/blog/evenemang-i-sommar/</link>
   <description><![CDATA[ 
 
 
@@ -30,14 +30,14 @@
   <category>hej</category>
   <category>cybersäkerhet</category>
   <category>evenemang</category>
-  <guid>https://alin.mechenici.com/sv/blog/evenemang-i-sommar/</guid>
+  <guid>https://mechenici.com/sv/blog/evenemang-i-sommar/</guid>
   <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
-  <media:content url="https://alin.mechenici.com/sv/blog/evenemang-i-sommar/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://mechenici.com/sv/blog/evenemang-i-sommar/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Välkommen</title>
   <dc:creator>Alin Mechenici</dc:creator>
-  <link>https://alin.mechenici.com/sv/blog/välkommen/</link>
+  <link>https://mechenici.com/sv/blog/välkommen/</link>
   <description><![CDATA[ 
 
 
@@ -52,7 +52,7 @@
 
  ]]></description>
   <category>hej</category>
-  <guid>https://alin.mechenici.com/sv/blog/välkommen/</guid>
+  <guid>https://mechenici.com/sv/blog/välkommen/</guid>
   <pubDate>Mon, 17 Jun 2024 21:00:00 GMT</pubDate>
 </item>
 </channel>
