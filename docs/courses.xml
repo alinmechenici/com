@@ -12,101 +12,105 @@
 <generator>quarto-1.4.554</generator>
 <lastBuildDate>Wed, 26 Jun 2024 21:00:00 GMT</lastBuildDate>
 <item>
-  <title>Course for Summer School Open4Tech</title>
+  <title>Cyber Awareness</title>
   <dc:creator>Chenist Academy</dc:creator>
-  <link>https://mechenici.com/en/courses/open4tech-summer-school-2024/</link>
+  <link>https://mechenici.com/en/courses/cyber-awareness/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="https://mechenici.com/assets/images/open4tech-summer-school-2024.png" class="img-fluid"></p>
-<p>Thank you Mr.&nbsp;Mirel Cosulschi for the invitation to participate in this edition of the <a href="../../../en/talks/open4tech-summer-school-2024/">Open4tech Summer School 2024</a>.</p>
-<p>Our training on “how to navigate the cybersecurity landscape” consists in a 2 sessions x 2h format. The first part of the course it will take today, 27th of June.</p>
-<p>Before we begin, who are we?</p>
+<p><img src="https://mechenici.com/assets/images/cyber-hygiene.png" class="img-fluid"></p>
+<p>Understanding Cyber Threats:</p>
+<pre><code>Recognize common cyber threats such as phishing, malware, ransomware, and social engineering.
+Learn how these threats impact individuals and organizations.</code></pre>
+<ol start="2" type="1">
+<li><p>Safe Internet Practices</p>
+<p>Implement best practices for secure web browsing. Identify and avoid phishing attempts and malicious websites. Understand the importance of secure connections (HTTPS).</p></li>
+<li><p>Password Security</p>
+<p>Create strong, unique passwords. Use and manage password managers. Understand the role of multi-factor authentication (MFA).</p></li>
+<li><p>Email Security</p>
+<p>Recognize phishing emails and suspicious attachments. Implement email security protocols. Safely handle and respond to unsolicited emails.</p></li>
+<li><p>Data Protection</p>
+<p>Protect personal and sensitive information. Understand data encryption and its importance. Implement best practices for data backup and recovery.</p></li>
+<li><p>Mobile Device Security</p>
+<p>Secure mobile devices with strong passwords and biometric locks. Understand the risks of public Wi-Fi and how to use VPNs. Manage app permissions and updates.</p></li>
+<li><p>Social Media Safety</p>
+<p>Configure privacy settings on social media platforms. Recognize and avoid social media scams. Safeguard personal information on social networks.</p></li>
+<li><p>Workplace Cybersecurity</p>
+<p>Follow organizational cybersecurity policies and procedures. Securely handle and store company data. Recognize and report security incidents promptly.</p></li>
+<li><p>Basic Cyber Hygiene</p>
+<p>Maintain regular software and system updates. Use antivirus and anti-malware tools effectively. Understand the importance of regular security audits.</p></li>
+<li><p>Incident Response</p>
+<p>Know the steps to take in case of a security breach. Understand the role of incident response teams. Learn how to minimize damage and recover from cyber incidents.</p></li>
+</ol>
+<p>This comprehensive training program is designed to equip you with the essential knowledge and skills to navigate the cybersecurity landscape safely and effectively, ensuring both personal and</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid figure-img"></p>
 <figcaption><a href="https://chenist.academy">CHENIST Academy</a> - part of CHENIST Cybersecurity</figcaption>
 </figure>
 </div>
-<p>We will teach you on how to navigate the cybersecurity landscape, step by step.</p>
-<p>What You’ll Learn In This 4 hours Course:</p>
-<ul>
-<li><p>Understanding Cyber Threats: Gain insights into common cyber threats and how they impact individuals and organizations.</p></li>
-<li><p>Safe Internet Practices: Learn best practices for safe browsing, including identifying phishing attempts and avoiding malicious websites.</p></li>
-<li><p>Data Protection: Discover methods to protect your personal information and data from cyber attacks.</p></li>
-<li><p>Basic Cyber Hygiene: Implement basic cybersecurity measures to safeguard your devices and online presence.</p></li>
-<li><p>Practical Scenarios: Engage in interactive exercises and real-world scenarios to apply what you’ve learned.</p></li>
-</ul>
-<p>Now, let’s explore the world of cybersecurity together for the first section of the course:</p>
-<p>1st hour [Cyber Awareness]:</p>
-<ul>
-<li>GKTNEO</li>
-<li>What is Cybersecurity?</li>
-<li>How can cybersecurity and the lack of it can affect you [Cyber Risks]?</li>
-<li>“You have nothing to hide?” - and other myths</li>
-<li>Data leaks and you (haveibeenpwnd.com)</li>
-<li>Who are the main cyber actors?</li>
-<li>What can you do to improve your cyber resilience?</li>
-<li>Q&amp;A</li>
-</ul>
-<p>2nd hour [Cyber Hygiene]:</p>
-<ul>
-<li>What is Cyber Hygiene?</li>
-<li>What can you do to improve your C.H.?</li>
-<li>Browsing / Passwords / Encryption / VMs / Specific setups</li>
-<li>Q&amp;A</li>
-</ul>
-<p>If you haven’t <a href="http://inf.ucv.ro/~summer-school/cursuri.php">RSVP</a> already, I think you can still do it.</p>
-<blockquote class="blockquote">
-<p>Poti citi in curand varianta in romana a articolului, <a href="../../../talks/ro/open4tech-summer-school-2024/">aici</a>.</p>
-</blockquote>
 
 
 
  ]]></description>
   <category>course</category>
-  <category>cyberhygiene</category>
   <category>cyberawareness</category>
-  <category>beginner</category>
-  <category>events</category>
-  <category>summer-school</category>
-  <category>UCV</category>
-  <guid>https://mechenici.com/en/courses/open4tech-summer-school-2024/</guid>
+  <guid>https://mechenici.com/en/courses/cyber-awareness/</guid>
   <pubDate>Wed, 26 Jun 2024 21:00:00 GMT</pubDate>
-  <media:content url="https://mechenici.com/assets/images/open4tech-summer-school-2024.png" medium="image" type="image/png" height="68" width="144"/>
+  <media:content url="https://mechenici.com/assets/images/cyber-hygiene.png" medium="image" type="image/png" height="102" width="144"/>
 </item>
 <item>
-  <title>Bookland’s SummerCamp 2024</title>
-  <dc:creator>Alin Mechenici</dc:creator>
-  <link>https://mechenici.com/en/courses/bookland-2024/</link>
+  <title>Cyber Hygiene</title>
+  <dc:creator>Chenist Academy</dc:creator>
+  <link>https://mechenici.com/en/courses/cyber-hygiene/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>This year, we gladly accepted, once again, the BookLand’s invitation to talk to kids.</p>
-<p>The first edition, in “Poiana Marului”, Caras Severin, on the 24th of June, and the second one in “Berevoiesti”, Arges, on the 13th of July 2024.</p>
-<p><img src="https://mechenici.com/en/courses/bookland-2024/bookland.png" class="img-fluid" alt="Logo"> <img src="https://mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid" alt="Logo"></p>
-<p>I will have a “Cyber Hygiene” workshop with kids, ages 15-19.</p>
-<p>You can find the whole schedule <a href="https://book-land.ro/program-tabere/">here</a>.</p>
-<blockquote class="blockquote">
-<p>You can read the Romanian version of the article, <a href="../../../talks/ro/bookland-2024/">here</a>.</p>
-</blockquote>
+<p><img src="https://mechenici.com/assets/images/cyber-awareness.png" class="img-fluid"></p>
+<ol type="1">
+<li><p>Introduction to Cyber Hygiene</p>
+<p>Understanding Cyber Hygiene: Learn what cyber hygiene is and why it’s crucial for individuals and organizations. Cyber Threat Landscape: Overview of common cyber threats and vulnerabilities. Importance of Cyber Hygiene: Understand the benefits of maintaining good cyber hygiene practices.</p></li>
+<li><p>Secure Password Practices</p>
+<p>Creating Strong Passwords: Guidelines for creating complex and secure passwords. Password Management: Use and benefits of password managers. Multi-Factor Authentication (MFA): How to set up and use MFA to enhance security.</p></li>
+<li><p>System and Software Updates</p>
+<p>Importance of Updates: Why regular updates are critical for security. Automating Updates: How to set up automatic updates for operating systems and applications. Patch Management: Understanding the patch management process.</p></li>
+<li><p>Antivirus and Anti-Malware Tools</p>
+<p>Choosing the Right Software: How to select and install antivirus and anti-malware tools. Regular Scans and Updates: Importance of regular scans and keeping software up to date. Handling Detections: What to do when a threat is detected.</p></li>
+<li><p>Safe Internet Practices</p>
+<p>Secure Browsing: How to use secure and private browsing modes. Recognizing Phishing Attempts: Tips for identifying and avoiding phishing scams. Avoiding Malicious Websites: Tools and practices to avoid harmful websites.</p></li>
+<li><p>Email Security</p>
+<p>Identifying Suspicious Emails: Signs of phishing emails and malicious attachments. Secure Email Practices: Using encryption and secure email services. Handling Spam and Unsolicited Emails: How to manage and filter unwanted emails.</p></li>
+<li><p>Protecting Personal Information</p>
+<p>Data Encryption: Basics of encrypting sensitive data. Safe Data Storage: Best practices for storing personal and sensitive information securely. Data Backup and Recovery: Importance of regular backups and how to perform data recovery.</p></li>
+<li><p>Mobile Device Security</p>
+<p>Securing Mobile Devices: Setting strong passwords and using biometric locks. App Permissions: Understanding and managing app permissions. Using VPNs: Benefits and setup of Virtual Private Networks for mobile security.</p></li>
+<li><p>Social Media Safety</p>
+<p>Privacy Settings: How to configure privacy settings on social media platforms. Recognizing Social Media Scams: Identifying and avoiding common social media scams. Protecting Personal Information: Tips for safeguarding your personal information on social networks.</p></li>
+<li><p>Incident Response</p>
+<p>Identifying Security Incidents: Recognizing signs of a security breach. Immediate Actions: Steps to take immediately following a security incident. Reporting and Recovery: How to report incidents and begin the recovery process.</p></li>
+</ol>
+<p>This Cyber Hygiene Training Program is designed to provide you with the knowledge and skills necessary to maintain a strong cybersecurity posture, both personally and within an organization. Through practical exercises and real-world scenarios, you will learn how to effectively implement and manage essential cyber hygiene practices.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mechenici.com/assets/logos/chenist-academy.svg" class="img-fluid figure-img"></p>
+<figcaption><a href="https://chenist.academy">CHENIST Academy</a> - part of CHENIST Cybersecurity</figcaption>
+</figure>
+</div>
 
 
 
  ]]></description>
-  <category>news</category>
-  <category>summer</category>
-  <category>events</category>
-  <category>CSR</category>
-  <guid>https://mechenici.com/en/courses/bookland-2024/</guid>
-  <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
-  <media:content url="https://mechenici.com/assets/images/bookland-tabara_2023.jpg" medium="image" type="image/jpeg"/>
+  <category>course</category>
+  <category>cybera hygiene</category>
+  <guid>https://mechenici.com/en/courses/cyber-hygiene/</guid>
+  <pubDate>Wed, 26 Jun 2024 21:00:00 GMT</pubDate>
+  <media:content url="https://mechenici.com/assets/images/cyber-awareness.png" medium="image" type="image/png" height="102" width="144"/>
 </item>
 </channel>
 </rss>

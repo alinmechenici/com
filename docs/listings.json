@@ -47,8 +47,8 @@
   {
     "listing": "/courses.html",
     "items": [
-      "/en/courses/open4tech-summer-school-2024/index.html",
-      "/en/courses/bookland-2024/index.html"
+      "/en/courses/cyber-awareness/index.html",
+      "/en/courses/cyber-hygiene/index.html"
     ]
   },
   {
@@ -70,11 +70,11 @@
   {
     "listing": "/en.html",
     "items": [
-      "/en/courses/open4tech-summer-school-2024/index.html",
+      "/en/courses/cyber-awareness/index.html",
+      "/en/courses/cyber-hygiene/index.html",
       "/en/events/summer-school/index.html",
       "/en/blog/events-this-summer/index.html",
       "/en/blog/sailfishos/index.html",
-      "/en/courses/bookland-2024/index.html",
       "/en/talks/open4tech-summer-school-2024/index.html",
       "/en/talks/web3-builders/index.html",
       "/en/talks/bookland-2024/index.html",
