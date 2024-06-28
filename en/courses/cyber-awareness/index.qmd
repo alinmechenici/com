@@ -1,0 +1,74 @@
+---
+title: "Cyber Awareness"
+author: "Chenist Academy"
+date: "2024-06-27"
+categories: [course, cyberawareness]
+image: "../../../assets/images/cyber-hygiene.png"
+---
+
+![](../../../assets/images/cyber-hygiene.png)
+
+Understanding Cyber Threats:
+
+    Recognize common cyber threats such as phishing, malware, ransomware, and social engineering.
+    Learn how these threats impact individuals and organizations.
+
+2. Safe Internet Practices
+
+    Implement best practices for secure web browsing.
+    Identify and avoid phishing attempts and malicious websites.
+    Understand the importance of secure connections (HTTPS).
+
+3. Password Security
+
+    Create strong, unique passwords.
+    Use and manage password managers.
+    Understand the role of multi-factor authentication (MFA).
+
+4. Email Security
+
+    Recognize phishing emails and suspicious attachments.
+    Implement email security protocols.
+    Safely handle and respond to unsolicited emails.
+
+5. Data Protection
+
+    Protect personal and sensitive information.
+    Understand data encryption and its importance.
+    Implement best practices for data backup and recovery.
+
+6. Mobile Device Security
+
+    Secure mobile devices with strong passwords and biometric locks.
+    Understand the risks of public Wi-Fi and how to use VPNs.
+    Manage app permissions and updates.
+
+7. Social Media Safety
+
+    Configure privacy settings on social media platforms.
+    Recognize and avoid social media scams.
+    Safeguard personal information on social networks.
+
+8. Workplace Cybersecurity
+
+    Follow organizational cybersecurity policies and procedures.
+    Securely handle and store company data.
+    Recognize and report security incidents promptly.
+
+9. Basic Cyber Hygiene
+
+    Maintain regular software and system updates.
+    Use antivirus and anti-malware tools effectively.
+    Understand the importance of regular security audits.
+
+10. Incident Response
+
+    Know the steps to take in case of a security breach.
+    Understand the role of incident response teams.
+    Learn how to minimize damage and recover from cyber incidents.
+
+This comprehensive training program is designed to equip you with the essential knowledge and skills to navigate the cybersecurity landscape safely and effectively, ensuring both personal and 
+
+
+![[CHENIST Academy](https://chenist.academy) - part of CHENIST Cybersecurity](../../../assets/logos/chenist-academy.svg)
+
