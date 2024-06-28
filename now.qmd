@@ -53,10 +53,10 @@ Reading:
 - technical related topics related to UNIX (with focus on: NixOS, FreeBSD and OpenBSD), Common-Lisp/Python, Latex, and Open-Source software (Redmine, N8n, Jekyll, Nextcloud, Emacs, Firefox, D2, SSH, Rsync, Wireguard, Pf, Audacity, Inkscape, Freecad, Blender, Krita, Calibre, Gnome-Pomodoro, PySpread, pass, Ledger-cli, Stump-wm, Tmux, Pandoc, Quarto, Neomutt, Newsboat, Abook, etc).
 - phylosophys of the east and stoicism 
 
-Courses I am upgrading:
+[Courses](/courses) I am upgrading:
 
-- Cyber Hygiene for SMBs
-- Cyber Awareness for SMBs
+- [Cyber Awareness](/en/courses/cyber-awareness) for SMBs
+- [Cyber Hygiene](/en/courses/cyber-hygiene) for SMBs
 - Open-Source for SMBs
 
 New courses I am developing:
